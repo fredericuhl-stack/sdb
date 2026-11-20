@@ -1,0 +1,5 @@
+# wird bei jedem Push automatisch neu erzeugt
+/index.html
+/*/index.html
+!/pdf/
+.nojekyll
