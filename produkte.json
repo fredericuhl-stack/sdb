@@ -1,9 +1,19 @@
 [
-  { "slug": "acidic",      "marke": "ServFaces",   "name": "Special Cleaner Acidic",          "pdf": "servfaces-special-cleaner-acidic.pdf", "stand": "19.02.2025" },
-  { "slug": "eulex",       "marke": "Koch-Chemie", "name": "Eulex",                           "pdf": "koch-eulex.pdf",                       "stand": "14.04.2026" },
-  { "slug": "fse",         "marke": "Koch-Chemie", "name": "Finish Spray exterior (FSE)",     "pdf": "koch-fse.pdf",                         "stand": "02.03.2026" },
-  { "slug": "redmax",      "marke": "SONAX",       "name": "FelgenReiniger Red Max",          "pdf": "sonax-red-max.pdf",                    "stand": "08.01.2025" },
-  { "slug": "felgenbeast", "marke": "SONAX",       "name": "FelgenBeast",                     "pdf": "sonax-felgenbeast.pdf",                "stand": "24.06.2026" },
-  { "slug": "multistar",   "marke": "SONAX",       "name": "PROFILINE MultiStar",             "pdf": "sonax-multistar.pdf",                  "stand": "" },
-  { "slug": "kimtec",      "marke": "KIMTEC",      "name": "Reifen- & Kunststoffpflege Spray", "pdf": "kimtec-reifenpflege.pdf",             "stand": "17.09.2020" }
+  { "slug": "glass",        "marke": "ServFaces",     "name": "Glass Cleaner",                    "pdf": "servfaces-glass-cleaner.pdf",          "stand": "07.05.2023" },
+  { "slug": "acidic",       "marke": "ServFaces",     "name": "Special Cleaner Acidic",           "pdf": "servfaces-special-cleaner-acidic.pdf", "stand": "07.05.2023" },
+  { "slug": "glico",        "marke": "Labocosmetica", "name": "Glico",                            "pdf": "labo-glico.pdf",                       "stand": "25.05.2022" },
+  { "slug": "sidero",       "marke": "Labocosmetica", "name": "Sidero",                           "pdf": "labo-sidero.pdf",                      "stand": "30.03.2022" },
+  { "slug": "ductile",      "marke": "Labocosmetica", "name": "Dùctile",                          "pdf": "labo-ductile.pdf",                     "stand": "28.03.2022" },
+  { "slug": "primus",       "marke": "Labocosmetica", "name": "Prìmus 2.0",                       "pdf": "labo-primus.pdf",                      "stand": "10.01.2024" },
+  { "slug": "tire",         "marke": "FX Protect",    "name": "Tire & Rubber Cleaner",            "pdf": "fx-tire-rubber.pdf",                   "stand": "30.07.2020" },
+  { "slug": "bug",          "marke": "FX Protect",    "name": "Bug Remover",                      "pdf": "fx-bug-remover.pdf",                   "stand": "30.07.2020" },
+  { "slug": "gravity",      "marke": "FX Protect",    "name": "Gravity Pre-Wash",                 "pdf": "fx-gravity.pdf",                       "stand": "04.03.2022" },
+  { "slug": "immogel",      "marke": "CarPro",        "name": "ImmoGel",                          "pdf": "carpro-immogel.pdf",                   "stand": "02.11.2022" },
+  { "slug": "paintcleaner", "marke": "Reflected",     "name": "The Paint Cleaner",                "pdf": "reflected-paint-cleaner.pdf",          "stand": "24.03.2022" },
+  { "slug": "eulex",        "marke": "Koch-Chemie",   "name": "Eulex",                            "pdf": "koch-eulex.pdf",                       "stand": "14.04.2026" },
+  { "slug": "fse",          "marke": "Koch-Chemie",   "name": "Finish Spray exterior (FSE)",      "pdf": "koch-fse.pdf",                         "stand": "02.03.2026" },
+  { "slug": "redmax",       "marke": "SONAX",         "name": "FelgenReiniger Red Max",           "pdf": "sonax-red-max.pdf",                    "stand": "08.01.2025" },
+  { "slug": "felgenbeast",  "marke": "SONAX",         "name": "FelgenBeast",                      "pdf": "sonax-felgenbeast.pdf",                "stand": "24.06.2026" },
+  { "slug": "multistar",    "marke": "SONAX",         "name": "PROFILINE MultiStar",              "pdf": "sonax-multistar.pdf",                  "stand": "" },
+  { "slug": "kimtec",       "marke": "KIMTEC",        "name": "Reifen- & Kunststoffpflege Spray", "pdf": "kimtec-reifenpflege.pdf",              "stand": "17.09.2020" }
 ]
